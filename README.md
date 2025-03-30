@@ -8,7 +8,7 @@ This project is a statistical analysis of LSAT (Law School Admission Test) multi
 - **Matt Satula**  
 
 ## File Description  
-This repository contains an HTML file generated from a Jupyter Notebook or another statistical computing tool. The document presents data analysis, visualizations, and interpretations based on LSAT-related data.  
+
 
 ## To Use
 - Open the file `LSAT Data Analysis STAT340.html` in a web browser to view the analysis.  

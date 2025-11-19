@@ -7,13 +7,9 @@ This project is a statistical analysis of LSAT (Law School Admission Test) multi
 - **Ben Kizaric**  
 - **Matt Satula**  
 
-## File Description  
-
-
 ## To Use
 - Open the file `LSAT Data Analysis STAT340.html` in a web browser to view the analysis.  
 
-
 ## Tools Used  
 - R (programming language):
-- R studio: IDE for R
+- R studio (IDE for R)

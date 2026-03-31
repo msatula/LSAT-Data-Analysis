@@ -1,9 +1,9 @@
-# Law School Admissions Test - Data Analysis 
+# Law School Admissions Test - Statistical Analysis 
 This project is a data analysis report of LSAT (Law School Admission Test) multiple-choice questions, conducted for my final project in my Data Modeling II class at UW-Madison. For the project, we analyzed whether there was a strategy for guessing the answer to a multiple-choice question that is more likely to be correct than randomly guessing. This was a partner project with my classmate, Ben Kizaric.
 
 ## Tech 
 - `R (programming language)`
-- `Posit (formerly R Studio)`
+- `Posit (formerly RStudio)`
 - `Python`
 
 ## How we did it
@@ -19,6 +19,12 @@ Unfortunately, we didn't discover any statistically significant answer-guessing 
 - Explore further answer-guessing strategies.
 
 ## To open
-1. Download `LSAT Data Analysis STAT340.html`
-2. Open the file in your web browser  
+- Download and open the PDF version: <a href="https://github.com/msatula/LSAT-Data-Analysis/blob/main/LSAT_Data_Analysis.pdf">`LSAT_Data_Analysis.pdf`</a>
 
+Or view the HTML (with no page breaks):
+1. Download <a href="https://github.com/msatula/LSAT-Data-Analysis/blob/main/LSAT_Data_Analysis.html">`LSAT_Data_Analysis.html`</a>
+2. Open the file in your web browser
+    
+
+## Sample Screenshot
+![Screenshot of one of our confidence interval graphs](https://github.com/msatula/LSAT-Data-Analysis/blob/main/95%20Confidence%20Interval.png)
